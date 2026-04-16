@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "date": "21/04/2026",
+  "version_number": 1,
+  "changelog": {
+    "en": "Coming soon...",
+    "ru": "Скоро..."
+  },
+  "download_url": "https://github.com/ArtemkaFire/EmbyOS/releases/embyos-1.0.0.iso"
+}
